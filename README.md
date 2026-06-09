@@ -109,9 +109,8 @@ I'm a passionate **Computer Science student** at **FAST NUCES** with a strong fo
 
 I'm always interested in **collaborating on projects**, discussing **technology trends**, or exploring **career opportunities**.
 
-- 📧 **Email:** [Add your email]
-- 💼 **LinkedIn:** [Add your LinkedIn profile]
-- 🌐 **Portfolio:** [Add your portfolio link if available]
+- 📧 **Email:** hammadamin73@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-hammad-b1715932b/
 - 💻 **GitHub:** [@MuhammadHammadCS](https://github.com/MuhammadHammadCS)
 
 ---
