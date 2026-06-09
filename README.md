@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** with a strong foundation in full-stack development, algorithms, artificial intelligence, and systems programming. I enjoy building scalable applications, optimizing algorithms, and exploring cutting-edge technologies.
+I'm a passionate **Computer Science student** at **FAST NUCES** with a strong foundation in full-stack development, algorithms, artificial intelligence, and systems programming. I enjoy building scalable applications, optimizing algorithms, and exploring cutting-edge technologies.
 
-- 🎓 **Current Focus:** Full-stack development & AI/ML applications
+- 🎓 **Education:** Bachelor of Science in Computer Science - FAST NUCES
 - 💡 **Interests:** Web technologies, Game development, Distributed systems, Data structures
 - 🏆 **Philosophy:** Clean code, continuous learning, and building impactful solutions
 
@@ -109,8 +109,9 @@ I'm a passionate **Computer Science student** with a strong foundation in full-s
 
 I'm always interested in **collaborating on projects**, discussing **technology trends**, or exploring **career opportunities**.
 
-- 📧 **Email:** hammadamin73@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-hammad-b1715932b/
+- 📧 **Email:** [Add your email]
+- 💼 **LinkedIn:** [Add your LinkedIn profile]
+- 🌐 **Portfolio:** [Add your portfolio link if available]
 - 💻 **GitHub:** [@MuhammadHammadCS](https://github.com/MuhammadHammadCS)
 
 ---
