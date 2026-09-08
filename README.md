@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Muhammad Hammad!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Algorithm+Enthusiast;AI%2FML+Explorer;Game+Developer;Systems+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Developer;Algorithm+Enthusiast;AI%2FML+Explorer;Game+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** at **FAST NUCES** with a strong foundation in full-stack development, algorithms, artificial intelligence, and systems programming. I enjoy building scalable applications, optimizing algorithms, and exploring cutting-edge technologies.
+I'm a passionate **Computer Science student** at **FAST NUCES** with a foundation in web development, algorithms, artificial intelligence. I enjoy building scalable applications, optimizing algorithms, and exploring cutting-edge technologies.
 
 - 🎓 **Education:** Bachelor of Science in Computer Science - FAST NUCES
-- 💡 **Interests:** Web technologies, Game development, Distributed systems, Data structures
+- 💡 **Interests:** Web technologies, Game development, Data structures
 - 🏆 **Philosophy:** Clean code, continuous learning, and building impactful solutions
 
 ---
@@ -20,21 +20,19 @@ I'm a passionate **Computer Science student** at **FAST NUCES** with a strong fo
 
 **Languages:** C++, Python, JavaScript/Node.js, Assembly (x86), C, SQL, HTML/CSS
 
-**Frontend:** HTML5, CSS3, JavaScript ES6+
+**Frontend:** HTML5, CSS3, JavaScript
 
-**Backend:** Node.js, Express.js, REST APIs
+**Backend:** Node.js, Express.js
 
 **Databases:** MySQL, XAMPP
 
 **Tools & Platforms:** Git, GitHub, Raylib, Jupyter Notebook, Kaggle
 
 **Core Competencies:**
-- ✨ Full-stack web development
+- ✨ Web development
 - 🧠 AI/Machine Learning & Data Science
 - 🎮 Game Development
 - 📊 Data Structures & Algorithms
-- 🔧 Systems Programming & Operating Systems
-- 🗺️ Algorithm Optimization (Dijkstra, A*)
 
 ---
 
